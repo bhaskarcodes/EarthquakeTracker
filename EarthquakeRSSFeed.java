@@ -1,6 +1,7 @@
 /**
  * This program am adaptation of an online tutorial on WebServices by Michel Fudge. 
  * This mini project helped me understand the process of parsing of XML files in Java.
+ * @author Bhaskar
  */
 import java.net.*;
 import java.io.*;
@@ -17,7 +18,6 @@ import org.xml.sax.SAXException;
  * 1. By Intensity Range
  * 2. By Location (i.e, latitude and longitude)
  * 3. Show all records
- * @author Bhaskar
  */
 public class EarthquakeRSSFeed {
 
