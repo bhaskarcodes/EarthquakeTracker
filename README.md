@@ -4,7 +4,7 @@ The data for this program is extracted from an RSS feed of the USGS Earthquake  
 
 Source : http://earthquake.usgs.gov/  
 
-<b>Structure of Program :</b>
+<b>Structure of Program :</b>  
 EarthquakeRSSFeed is the main class that connects to the url of the atom feed and extracts the XML Document. We then look for appropriate tags, pick up the enclosed values and make objects of Quake class, which is a class we use to organize information about earthquakes properly. We then add the Quake object to an arrayList. This arrayList is then queried as per user choice in the following ways :   
 
 1. By Intensity Range
