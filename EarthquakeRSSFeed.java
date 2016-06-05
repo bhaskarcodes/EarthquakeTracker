@@ -1,5 +1,5 @@
 /**
- * This program am adaptation of an online tutorial on WebServices by Michel Fudge. 
+ * This program is an adaptation of a online tutorial on WebServices by Michel Fudge. 
  * This mini project helped me understand the process of parsing of XML files in Java.
  * @author Bhaskar
  */
